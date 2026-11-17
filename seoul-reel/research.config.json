@@ -1,0 +1,8 @@
+{
+  "minViews": 50000,
+  "topN": 5,
+  "keywords": ["청년 월세 지원", "자취 꿀팁", "청년도약계좌", "자취 고정비", "청년 혜택"],
+  "youtube": { "enabled": true, "withinDays": 14, "perKeyword": 20, "maxSeconds": 180 },
+  "naver": { "enabled": true, "newsPerKeyword": 3 },
+  "webSearch": { "enabled": true, "maxUses": 6 }
+}
